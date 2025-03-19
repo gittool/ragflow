@@ -142,4 +142,3 @@ volumes:
 networks:
   ragflow:
     driver: bridge
-    name: ragflow_ragflow
