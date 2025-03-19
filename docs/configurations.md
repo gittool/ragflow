@@ -86,7 +86,7 @@ The [.env](https://github.com/infiniflow/ragflow/blob/main/docker/.env) file con
 ### Redis
 
 - `REDIS_PORT`  
-  The port used to expose the Redis service to the host machine, allowing **external** access to the Redis service running inside the Docker container. Defaults to `6379`.
+  The port used to expose the Redis service to the host machine, allowing **external** access to the Redis service running inside the Docker container. Defaults to `6380`.
 - `REDIS_PASSWORD`  
   The password for Redis.
 
